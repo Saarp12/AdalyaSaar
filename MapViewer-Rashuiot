@@ -1,3 +1,10 @@
 <iframe src="https://raw.githubusercontent.com/[username]/[repository]/[branch]/[file path]"></iframe>
 
 ?
+#To create a shared link to your map.html file, you can use the following format:
+https://htmlpreview.github.io/?https://github.com/[username]/[repository]/blob/[branch]/[file path]
+
+#Replace [username] with your GitHub username, [repository] with the name of the repository that contains the file,
+#[branch] with the name of the branch that the file is on, and [file path] with the path to the file within the repository.
+
+https://htmlpreview.github.io/?https://github.com/saarp12/AdalyaSaar/blob/MapViewer/Large Authorities.html
